@@ -1,0 +1,3 @@
+fpdf~=1.7.2
+livekit~=0.19.1
+python-dotenv~=1.0.1
